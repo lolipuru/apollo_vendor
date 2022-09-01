@@ -723,6 +723,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/apollo/proprietary/vendor/lib/soundfx/libswgamedap.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswgamedap.so \
     vendor/xiaomi/apollo/proprietary/vendor/lib/soundfx/libswvqe.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswvqe.so \
     vendor/xiaomi/apollo/proprietary/vendor/lib/vendor.dolby.hardware.dms@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.dolby.hardware.dms@2.0.so \
+    vendor/xiaomi/apollo/proprietary/system/system/lib/libldacBT_abr.so:$(TARGET_COPY_OUT_SYSTEM)/system/lib/libldacBT_abr.so \
+    vendor/xiaomi/apollo/proprietary/system/system/lib/libldacBT_enc.so:$(TARGET_COPY_OUT_SYSTEM)/system/lib/libldacBT_enc.so \
+    vendor/xiaomi/apollo/proprietary/system/system/lib/liblhdc.so:$(TARGET_COPY_OUT_SYSTEM)/system/lib/liblhdc.so \
+    vendor/xiaomi/apollo/proprietary/system/system/lib/liblhdcBT_enc.so:$(TARGET_COPY_OUT_SYSTEM)/system/lib/liblhdcBT_enc.so \
+    vendor/xiaomi/apollo/proprietary/system/system/lib64/libldacBT_abr.so:$(TARGET_COPY_OUT_SYSTEM)/system/lib64/libldacBT_abr.so \
+    vendor/xiaomi/apollo/proprietary/system/system/lib64/libldacBT_enc.so:$(TARGET_COPY_OUT_SYSTEM)/system/lib64/libldacBT_enc.so \
+    vendor/xiaomi/apollo/proprietary/system/system/lib64/liblhdc.so:$(TARGET_COPY_OUT_SYSTEM)/system/lib64/liblhdc.so \
+    vendor/xiaomi/apollo/proprietary/system/system/lib64/liblhdcBT_enc.so:$(TARGET_COPY_OUT_SYSTEM)/system/lib64/liblhdcBT_enc.so \
     vendor/xiaomi/apollo/proprietary/vendor/lib/vendor.qti.hardware.audiohalext@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.audiohalext@1.0.so \
     vendor/xiaomi/apollo/proprietary/vendor/lib/vendor.qti.hardware.dsp@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.dsp@1.0.so \
     vendor/xiaomi/apollo/proprietary/vendor/lib/vendor.qti.hardware.vpp@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.vpp@1.1.so \
